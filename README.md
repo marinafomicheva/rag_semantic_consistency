@@ -41,7 +41,7 @@ Each row represents a bilingual factual question pair with corresponding support
 Designed for evaluating how sentence embeddings generalize across syntactic paraphrases in **Retrieval-Augmented Generation (RAG)** pipelines.
 
 **Especially useful for:**
-- Retrieval model evaluation (`Overlap@K`, `MRR`, `Recall`)
+- Retrieval model evaluation (`Overlap@K`, `MRR`, `Recall@K`)
 - Paraphrase sensitivity analysis
 - Contrastive fine-tuning benchmarks
 
